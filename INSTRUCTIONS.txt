@@ -1,0 +1,39 @@
+ASSETS FOLDER INSTRUCTIONS
+==========================
+
+This folder should contain your personal media files:
+
+1. PROFILE PHOTO
+   - Filename: profile.jpg
+   - Recommended size: 300x300 pixels (square aspect ratio)
+   - Format: JPG or PNG
+   - Tips: Use a professional, clear photo with good lighting
+
+2. RESUME/CV
+   - Filename: resume.pdf
+   - Format: PDF
+   - Make sure it's up-to-date with your latest experience
+   - Keep file size under 2MB for faster loading
+
+CURRENT STATUS:
+---------------
+- profile.jpg: NOT FOUND (placeholder will be shown)
+- resume.pdf: NOT FOUND (button will still work but link to this file)
+
+TO ADD FILES:
+-------------
+1. Place your profile photo here and name it exactly: profile.jpg
+2. Place your resume here and name it exactly: resume.pdf
+3. Refresh your browser to see the changes
+
+OPTIONAL FILES:
+---------------
+You can also add:
+- Favicon (favicon.ico)
+- Open Graph image for social sharing (og-image.jpg)
+- Additional project screenshots or images
+
+NOTE: If files don't appear, check:
+- File names are exactly as specified (case-sensitive)
+- Files are in the correct /assets folder
+- Browser cache is cleared (Ctrl + F5)
